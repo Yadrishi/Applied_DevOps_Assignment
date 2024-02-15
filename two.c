@@ -22,3 +22,5 @@ int main()
 
     printf("the series is: ", s);
 }
+
+//this is harry's feature
