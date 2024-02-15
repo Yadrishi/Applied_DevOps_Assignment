@@ -23,3 +23,4 @@ int main()
     printf("the series is: ", s);
 }
 //hey! this is kane
+//made changes again 
